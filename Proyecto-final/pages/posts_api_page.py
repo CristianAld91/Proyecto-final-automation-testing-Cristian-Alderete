@@ -2,12 +2,13 @@ import requests
 
 
 class PostsApiPage:
-    URL_BASE = "https://jsonplaceholder.typicode.com/posts"
-    #API_KEY = "your_api_key" #buscar en clase 12 de api privada
+    URL_BASE = "https://jsonplaceholder.typicode.com"
+    
+    #API_KEY = "your_api_key" 
     
     def get_all_posts(self):
         return requests.get(
-            f"{self.URL_BASE}/posts"
+            f"{self.URL_BASE}/posts" #utilizamos /posts para obtener todos los posts
         )
 
 

@@ -11,7 +11,11 @@ def posts_data():
 @pytest.fixture
 def users_data():
     return {
-        "name": "John Doe",
-        "username": "johndoe",
-        "email": "johndoe@gmail.com"
-    }    
+        "name": "Ash ketchum",
+        "username": "ashketchum",
+        "email": "ashketchum@gmail.com"
+    }
+    
+def pytest_html_report_title(report):
+    report.title = "API JSONPLACEHOLDER - POST"
+    
