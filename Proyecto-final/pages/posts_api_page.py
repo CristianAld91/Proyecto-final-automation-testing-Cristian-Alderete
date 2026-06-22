@@ -27,8 +27,3 @@ class PostsApiPage:
                 "userId": user_id
             }
         )
-    
-    def delete_post(self, post_id):
-        return requests.delete(
-            f"{self.URL_BASE}/posts/{post_id}"
-        )        

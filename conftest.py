@@ -11,6 +11,7 @@ def posts_data():
 @pytest.fixture
 def users_data():
     return {
+        "id": "11",
         "name": "Ash ketchum",
         "username": "ashketchum",
         "email": "ashketchum@gmail.com"
