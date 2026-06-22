@@ -21,7 +21,6 @@ def test_one_users():
         "Post ID incorrecto, se esperaba 1"
     )
 
-
 def test_create_users(users_data):
     
     logger.info("Creando un nuevo post")
