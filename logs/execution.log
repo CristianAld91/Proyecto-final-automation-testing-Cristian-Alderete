@@ -1,0 +1,53 @@
+2026-06-24 11:08:53,020 - INFO - Test: Get one post
+2026-06-24 11:08:53,141 - INFO - obteniendo todos los posts
+2026-06-24 11:08:56,232 - INFO - Creando un nuevo post
+2026-06-24 11:08:56,414 - INFO - Test: Get one user
+2026-06-24 11:09:24,547 - INFO - Creando un nuevo post
+2026-06-24 11:09:24,750 - INFO - Borrando user
+2026-06-24 11:09:24,951 - INFO - ====== WebDriver manager ======
+2026-06-24 11:09:26,065 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:09:26,222 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:09:26,301 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:09:26,488 - INFO - WebDriver version 149.0.7827.155 selected
+2026-06-24 11:09:26,493 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win32/chromedriver-win32.zip
+2026-06-24 11:09:26,493 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win32/chromedriver-win32.zip
+2026-06-24 11:09:26,573 - INFO - Driver downloading response is 200
+2026-06-24 11:09:26,799 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:09:26,962 - INFO - Driver has been saved in cache [C:\Users\Cristian\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-06-24 11:09:31,737 - INFO - ====== WebDriver manager ======
+2026-06-24 11:09:32,754 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:09:32,795 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:09:32,843 - INFO - Driver [C:\Users\Cristian\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+2026-06-24 11:09:36,957 - INFO - ====== WebDriver manager ======
+2026-06-24 11:09:38,004 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:09:38,042 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:09:38,092 - INFO - Driver [C:\Users\Cristian\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+2026-06-24 11:09:42,205 - INFO - ====== WebDriver manager ======
+2026-06-24 11:09:43,262 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:09:43,306 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:09:43,349 - INFO - Driver [C:\Users\Cristian\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+2026-06-24 11:58:58,979 - INFO - Test: Get one post
+2026-06-24 11:59:03,544 - INFO - obteniendo todos los posts
+2026-06-24 11:59:04,088 - INFO - Creando un nuevo post
+2026-06-24 11:59:04,429 - INFO - Test: Get one user
+2026-06-24 11:59:04,775 - INFO - Creando un nuevo post
+2026-06-24 11:59:06,270 - INFO - Borrando user
+2026-06-24 11:59:30,525 - INFO - ====== WebDriver manager ======
+2026-06-24 11:59:31,781 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:59:31,861 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:59:31,907 - INFO - Driver [C:\Users\Cristian\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+2026-06-24 11:59:37,191 - INFO - ====== WebDriver manager ======
+2026-06-24 11:59:38,157 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:59:38,207 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:59:38,251 - INFO - Driver [C:\Users\Cristian\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+2026-06-24 11:59:43,155 - INFO - ====== WebDriver manager ======
+2026-06-24 11:59:44,178 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:59:59,268 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 11:59:59,309 - INFO - Driver [C:\Users\Cristian\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+2026-06-24 12:00:03,388 - INFO - ====== WebDriver manager ======
+2026-06-24 12:00:04,676 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 12:00:04,735 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-24 12:00:04,803 - INFO - Driver [C:\Users\Cristian\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+2026-06-24 12:00:47,812 - INFO - Test: Get one post
+2026-06-24 12:00:54,973 - INFO - obteniendo todos los posts
+2026-06-24 12:00:56,158 - INFO - Creando un nuevo post
